@@ -30,7 +30,8 @@ If y represents the dependent variable and x the independent variable, this rela
 <img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
 
 <img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
-# Result
+
+# Result 
 
 <img src="https://github.com/user-attachments/assets/de1d6c19-005b-491b-8a0d-531779e449d5" width="1000" height="10000000"/>
 
